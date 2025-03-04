@@ -1,6 +1,6 @@
 # Document-classification-for-Arabic-language
 
-
+  ## Arabic text classification using the KALIMAT dataset, leveraging machine learning techniques for categorizing economy, religion, and sports articles.
 
   1.  KALIMAT Dataset:
      
