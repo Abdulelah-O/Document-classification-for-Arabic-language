@@ -43,7 +43,18 @@
 
   3. Select the proper path for the dataset for example : "C:/Users/abode/NLP/NLP"
        
-  4. Train the model 
+  4. Train the model
+
+### Results:
+
+  ![image](https://github.com/user-attachments/assets/2c6910f7-0a7b-4019-af7d-8a28ff3fa529)
+
+  ![image](https://github.com/user-attachments/assets/61724090-6fd9-4ff7-b75b-8fab2c612dc3)
+
+  ![image](https://github.com/user-attachments/assets/8ac1187b-cdaa-45aa-903b-be4b29aa9f69)
+
+
+
 
 
         
