@@ -2,7 +2,7 @@
 
   ## Arabic text classification using the KALIMAT dataset, leveraging machine learning techniques for categorizing economy, religion, and sports articles.
 
-  1.  KALIMAT Dataset:
+  1.  **KALIMAT** Dataset:
      
        The **KALIMAT** dataset is one of the largest publicly available Arabic text corpora. It was created to assist in the development of Arabic NLP tools and has been widely adopted by researchers and developers alike. The dataset contains millions of Arabic words gathered from various sources, including online news platforms, blogs, and social media networks.
 
