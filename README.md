@@ -32,14 +32,18 @@
 
   4. Evaluation:
 
-       	Evaluate the model using appropriate metrics such as accuracy, precision, recall, and F1-score.
+       	Evaluate the model using appropriate metrics such as accuracy, precisdion, recall, and F1-score.
 
+
+### How can you use the code?
+
+  1. install the needed libraries for example: nltk and camel_tools etc.
+
+  2. You need to download the dataset from the official website. https://sourceforge.net/projects/kalimat/
+
+  3. Select the proper path for the dataset for example : "C:/Users/abode/NLP/NLP"
        
-     
-
-       
-
-
+  4. Train the model 
 
 
         
