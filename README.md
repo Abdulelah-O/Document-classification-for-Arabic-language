@@ -1,7 +1,6 @@
 # Document-classification-for-Arabic-language
 
-Introduction:
-In recent years, the growing availability of text data in various languages has created significant opportunities for advancements in natural language processing (NLP) applications such as sentiment analysis, machine translation, and information retrieval. Arabic, one of the most widely spoken languages in the world, presents unique challenges for NLP due to its rich morphology, complex syntax, and regional dialects. To address these challenges, high-quality datasets are essential, and the KALIMAT dataset plays a crucial role in advancing Arabic NLP.
+
 
   1.  KALIMAT Dataset:
      
